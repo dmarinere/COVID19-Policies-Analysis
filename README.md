@@ -11,4 +11,4 @@ The data that will be used comes from the COVID-19 project by the Center for Sys
 ## Analysis
 
 This analysis is based on PYMC3 library and this work consist of using Bayesian Statistics and Markov Chain Monte Carlo to make predictions
-All the work here are based on a previous analysis done by [Jonas Dehning](https://twitter.com/DehningJonas) et al, you can find the article to their research [here](https://arxiv.org/abs/2004.01105)
+All the work here are based on a previous analysis done by [Jonas Dehning](https://twitter.com/DehningJonas) et al, you can find the article to their research [here](https://arxiv.org/abs/2004.01105) and a link to their repository [here](https://github.com/Priesemann-Group/covid19_inference)
